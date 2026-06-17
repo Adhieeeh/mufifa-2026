@@ -1,19 +1,19 @@
-# Adhithya S U (Frontend Developer & CSE student)
-### Squad Domain: [Coder / Maker / Designer / Strategist] | FIFA Nation: [Country Name]
+# Adhithya S U (Generalist, Frontend Developer & CSE student)
+### Squad Domain: Coder | FIFA Nation: Portugal
 
 ### About Me
 
-> Who are you, what do you build or create, and what brought you to μFIFA? Tell us about your field, your work at your institution or organisation, and what you're here to prove on the pitch. If you're just starting out, tell us what excites you and what you want to become. *(Minimum 200 characters)*
+I'm just a Mulearner, who just started under Mulearn Foundations.It was always my dream as a BTech UG student to be a part of Mulearn Foundations.Personally I'm right now peersuing my BTech UG and currently focusing on turning new ideas into codes.Rigthnow I'm a frontend developer and soon I'll change this title. 
 
 ---
 
 ## ⚽ FIFA World Cup Corner
 
-*Your fan card. Tell us who you ride with, what you know about the beautiful game, and what you expect from this year's tournament.*
+------
 
 #### My Nation & Why:
 
-- Which FIFA Nation are you representing in μFIFA, and why did you pick them?
+- Representing Portugal in 
 - Is it legacy, tactics, a player you love, or pure loyalty? Tell the story.
 
 #### Supporting Team in the Real World Cup 2026:
