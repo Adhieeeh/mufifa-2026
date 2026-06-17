@@ -51,56 +51,53 @@ Building a tournament-specific application offers the perfect playground to impl
 
 ## 🏅 Portfolio Highlights
 
-> No portfolio yet? That's fine. μFIFA is where you build one. Fill in what you have, even if it's just an idea, a plan, or something you're currently learning.
-
 #### History of Open Source and Collaborative Contributions:
 
-- Share open-source projects you've contributed to: your own repos, contributions to popular projects, or collaborative proof-of-work on μLearn initiatives.
-- *If you're just starting:* mention a project you're planning to open-source, or a repo you've been studying and want to contribute to.
+
+- Developed custom Model Context Protocol (MCP) servers and automation pipelines.
 
 #### History of Community Engagement:
 
-- Describe your engagement in technical or creative communities: Discord servers, forums, hackathons, campus clubs, μLearn programs, or any space where you've shown up and contributed consistently.
-- *If you're just starting:* mention a community you've recently joined or an event you attended. Showing up counts.
+- Coordinated operations for initiatives like Launchpad, Top 100 Series, In50Hours, and Mutate.
+- Assist student developers and creators on the Discord server with onboarding and learning paths.
 
 #### Domain Profiles:
 
--Github:https://github.com/Adhieeeh
--Linkedin:https://www.linkedin.com/in/adhithya-su
+-Github:[](https://github.com/Adhieeeh)
+-Linkedin:[](https://www.linkedin.com/in/adhithya-su)
 -HackerRank:
 -Vercel: https://vercel.com/adhithyasu6-2675s-projects
 
 #### Tools, Workflows & Automations:
 
-- What tools do you rely on day-to-day, across AI, design, productivity, hardware, or creative workflows?
-- Examples: AI assistants, no-code platforms, custom scripts, design toolkits, automation pipelines, hardware setups, personal systems.
-- *If you're just starting:* list tools you're currently learning or curious about. What you want to get good at is just as valid.
+- AI tools: Claude, ChatGPT, and Cursor for engineering and documentation workflows.
+-Web basics,React,Next.js.Ruby,JS,Node.js
+- MongoDB,Python
 
 #### Public Portfolio & Recognition:
 
-- Share anything that shows your work in public: a live project, a published piece, an award, a feature, a community shoutout, or any recognition you've earned.
-- This can be a deployed app, a design campaign, a video series, an event you organised, a competition result, or anything others can see and verify.
-- *If you're just starting:* describe an idea you want to build and ship during μFIFA. What will your public proof of work look like by the end of the tournament?
+- Created guides on integrating AI workflows into student learning pathways, used across college campus.
 
 #### Education and Proof of Work:
 
-- Mention your current degree, institution, and any relevant certifications or courses completed.
-- Add links to your GitHub and LinkedIn profiles.
+- BTech in Computer Science and engineering at College of Engineering,Muttathara,TVM.
+- Certifications: IBM 's web Development ,Ai tools ,Cybersecurity certificates,TCS ION Career EDGE-Young proffesional certificate.Future skills prime's web,mobile development and marketing,overview of BDA,Popular software tools, chchatgpt for excel,Srishtis Field visit certificate.
+- GitHub: [](https://github.com/Adhieeeh)
+- LinkedIn: [](https://www.linkedin.com/in/adhithya-su)
 
 #### History of Leadership:
 
-- Describe leadership roles you've held - in student clubs, μLearn programs, college committees, community initiatives, or professional settings.
-- *If you're just starting:* describe a situation where you took initiative, organised something, or helped others. Leadership doesn't need a title.
+- Worked in progressive operations and coordinator roles at college of engineering muttathara and an active member of GDG TVM
+- Assisted cross-functional teams of developers, creators, and coordinators on educational programs.
 
 #### Networking:
 
-- How do you connect with people across disciplines and institutions? Describe collaborations, partnerships, or cross-functional teams you've been part of.
-- *If you're just starting:* who do you want to connect with during μFIFA, and what kind of collaborations are you hoping to find?
+- Collaborated with GDG , Shristi Communications tvm
 
 #### Career Plan:
 
-- **Immediate:** What are you working on or planning to do in the next 6-12 months?
-- **Long-term:** Where do you want to take your skills, and how does μFIFA help you get there?
+- **Immediate:** Support the implementation of new features for μLearn applications and contribute to community projects.
+- **Long-term:** Gain experience in technology management and help support tech-enabled educational programs at scale.
 
 ---
 
