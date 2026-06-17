@@ -2,7 +2,7 @@
 ### Squad Domain: Coder | FIFA Nation: Portugal
 
 ### About Me
-
+------------------------------------------------
 I'm just a Mulearner, who just started under Mulearn Foundations.It was always my dream as a BTech UG student to be a part of Mulearn Foundations.Personally I'm right now peersuing my BTech UG and currently focusing on turning new ideas into codes.Rigthnow I'm a frontend developer and soon I'll change this title. 
 
 ---
