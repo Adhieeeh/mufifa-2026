@@ -66,6 +66,8 @@ By the final whistle on July 19, my core technical objective is to deliver a pro
 #### Education and Proof of Work:
 * **Degree:** BTech in Computer Science and Engineering, College of Engineering, Muttathara (TVM).
 * **Certifications:** IBM Professional Web Development, AI Tools Ecosystems, and Cybersecurity Frameworks; TCS iON Career Edge - Young Professional; FutureSkills Prime (Web & Mobile Development, Big Data Analytics Overview, ChatGPT for Advanced Excel Automation); Srishti Field Visit Technical Certification.
+* **GitHub:** [github.com/Adhieeeh](https://github.com/Adhieeeh)
+* **LinkedIn:** [linkedin.com/in/adhithya-su](https://www.linkedin.com/in/adhithya-su)
 
 #### History of Leadership:
 * Assumed progressive operational roles as a lead coordinator for campus initiatives at the College of Engineering, Muttathara.
