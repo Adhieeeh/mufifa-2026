@@ -1,4 +1,4 @@
-# Adhithya S U (Generalist, Frontend Developer & CSE Student)
+# Adhithya S U ( Frontend Developer & CSE Student)
 ### Squad Domain: Coder | FIFA Nation: Portugal
 
 ### About Me
